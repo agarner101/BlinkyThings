@@ -3,6 +3,8 @@ Android Things LED-Blink Project
 
 Part **2** of Android Things Tutorial. For initial setup and Hello World, see [Part 1](https://github.com/agarner101/HelloThings)
 
+To see the main java code, go to [HomeActivity.java](app/src/main/java/io/andrewgarner/blinkythings/HomeActivity.java)
+
 ![alt text](https://media.giphy.com/media/5Yfaif8BvQv6RUvH2N/giphy.gif)
 
 #### Materials
