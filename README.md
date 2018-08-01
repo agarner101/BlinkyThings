@@ -25,7 +25,7 @@ Wire up the Pi following this schematic:
 ![alt text](https://i.imgur.com/2xIoNEz.png)
 
 #### 2. ADB Connect and Run App
-In [Tutorial Part 1](https://github.com/agarner101/HelloThings/blob/master/README.md) follow step 5 and 6
+See [Tutorial Part 1](https://github.com/agarner101/HelloThings/blob/master/README.md) step 5 and 6 for help on how to do this.
 
 ### Results:
 LED will turn on and off in 1 second increments.
