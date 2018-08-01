@@ -3,7 +3,7 @@ Android Things LED-Blink Project
 
 Part **2** of Android Things Tutorial. For initial setup and Hello World, see [Part 1](https://github.com/agarner101/HelloThings)
 
-![alt text](https://i.imgur.com/HeKiMyB.jpg)
+![alt text](https://media.giphy.com/media/5Yfaif8BvQv6RUvH2N/giphy.gif)
 
 #### Materials
 1. Raspberry Pi 3 Model B
@@ -29,4 +29,4 @@ In [Tutorial Part 1](https://github.com/agarner101/HelloThings/blob/master/READM
 
 ### Results:
 LED will turn on and off in 1 second increments.
-![alt text](https://i.imgur.com/HeKiMyB.jpg)
+![alt text](https://media.giphy.com/media/5Yfaif8BvQv6RUvH2N/giphy.gif)
