@@ -1,6 +1,7 @@
 # BlinkyThings
 Android Things LED-Blink Project
-_For help getting started with Android Things, see [This Tutorial](https://github.com/agarner101/HelloThings)_
+
+Part **2** of Android Things Tutorial. For initial setup and Hello World, see [Part 1](https://github.com/agarner101/HelloThings)
 
 ![alt text](https://i.imgur.com/HeKiMyB.jpg)
 
@@ -24,7 +25,7 @@ Wire up the Pi following this schematic:
 ![alt text](https://i.imgur.com/2xIoNEz.png)
 
 #### 2. ADB Connect and Run App
-In [This Tutorial](https://github.com/agarner101/HelloThings/blob/master/README.md) follow step 5 and 6
+In [Tutorial Part 1](https://github.com/agarner101/HelloThings/blob/master/README.md) follow step 5 and 6
 
 ### Results:
 LED will turn on and off in 1 second increments.
