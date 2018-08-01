@@ -29,4 +29,5 @@ In [Tutorial Part 1](https://github.com/agarner101/HelloThings/blob/master/READM
 
 ### Results:
 LED will turn on and off in 1 second increments.
+
 ![alt text](https://media.giphy.com/media/5Yfaif8BvQv6RUvH2N/giphy.gif)
